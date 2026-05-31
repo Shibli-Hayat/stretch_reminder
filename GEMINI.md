@@ -1,0 +1,1 @@
+Create a simple Python script using standard libraries that displays a pop-up window reminding the user to stand up and stretch. The script should show a pop-up after a short 5-second delay for testing purposes, and then enter a loop to trigger the pop-up every 30 minutes. It should run in the terminal and handle graceful exit on KeyboardInterrupt (Ctrl+C).
